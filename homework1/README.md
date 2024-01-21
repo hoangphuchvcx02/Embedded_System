@@ -13,3 +13,7 @@ This exercise for creating schematic and layout, exporting manufacturing files u
 5. Create a .txt file contain the git repository and submit to lms.
 
 
+![IMAGE ALT TEXT HERE](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_bottom_view.png)
+![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_corner_view.png)
+![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_side_view.png)
+![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_top_view.png)
