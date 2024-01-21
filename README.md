@@ -1,4 +1,4 @@
-#Embedded_System
+#Embedded_System #LUONGHOANGPHUC #2010525
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center">⌨️ Readme First</h3>
