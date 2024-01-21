@@ -2,7 +2,11 @@
 ## ⚡ Homework1
 This exercise for creating schematic and layout, exporting manufacturing files using Kicad.
 1. Follow the instruction in this video to create the schematic and layout for a LED Shield for Arduino
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/img/desktop/yt_1200.png)](https://www.youtube.com/watch?v=mo-Nork2a5M&t=487s)
+
+[<img src="https://www.youtube.com/img/desktop/yt_1200.png" alt="IMAGE ALT TEXT HERE" width="50%">](https://www.youtube.com/watch?v=mo-Nork2a5M&t=487s)
+
+
+
 
 2. Create a git account, make a repository with name: Student_name-Student-ID-ESD-E1
 
