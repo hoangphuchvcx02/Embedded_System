@@ -16,7 +16,7 @@ In this course, I will upload exercise files, project, and simulations of embedd
 
 
 ```md
-https://github.com/hoangphuchvcx02/Embedded_System/edit/main/README.md
+https://github.com/hoangphuchvcx02/Embedded_System/
 ```
 
 
