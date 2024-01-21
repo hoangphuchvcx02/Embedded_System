@@ -21,3 +21,7 @@ This exercise for creating schematic and layout, exporting manufacturing files u
 ![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_corner_view.png)
 ![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_side_view.png)
 ![](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/3d_top_view.png)
+
+
+[Link to Schematic PDF](https://github.com/hoangphuchvcx02/LuongHoangPhuc_2010525_ESD-E1/blob/main/homework1/schematic.pdf)
+
