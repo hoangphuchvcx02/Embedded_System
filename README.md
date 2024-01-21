@@ -1,4 +1,5 @@
 #Embedded_System #LUONGHOANGPHUC #2010525
+<!-- https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md?plain=1! -->
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center">⌨️ Readme First</h3>
@@ -26,5 +27,5 @@ https://github.com/hoangphuchvcx02/Embedded_System/
 | :---------------: | :----------------------------------------------------------------: | :-----: | 
 |   `homework 1`    |   This exercise for creating schematic and layout, exporting manufacturing files using Kicad | homework  | 
      
-## ☕  Animation
-[☕ Animation](https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md?plain=1)
+
+
